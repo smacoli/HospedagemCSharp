@@ -1,0 +1,16 @@
+C:\Users\soliveira\source\repos\CadastroHospedagem\CadastroHospedagem\bin\Debug\net5.0\CadastroHospedagem.exe
+C:\Users\soliveira\source\repos\CadastroHospedagem\CadastroHospedagem\bin\Debug\net5.0\CadastroHospedagem.deps.json
+C:\Users\soliveira\source\repos\CadastroHospedagem\CadastroHospedagem\bin\Debug\net5.0\CadastroHospedagem.runtimeconfig.json
+C:\Users\soliveira\source\repos\CadastroHospedagem\CadastroHospedagem\bin\Debug\net5.0\CadastroHospedagem.runtimeconfig.dev.json
+C:\Users\soliveira\source\repos\CadastroHospedagem\CadastroHospedagem\bin\Debug\net5.0\CadastroHospedagem.dll
+C:\Users\soliveira\source\repos\CadastroHospedagem\CadastroHospedagem\bin\Debug\net5.0\ref\CadastroHospedagem.dll
+C:\Users\soliveira\source\repos\CadastroHospedagem\CadastroHospedagem\bin\Debug\net5.0\CadastroHospedagem.pdb
+C:\Users\soliveira\source\repos\CadastroHospedagem\CadastroHospedagem\obj\Debug\net5.0\CadastroHospedagem.csproj.AssemblyReference.cache
+C:\Users\soliveira\source\repos\CadastroHospedagem\CadastroHospedagem\obj\Debug\net5.0\CadastroHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soliveira\source\repos\CadastroHospedagem\CadastroHospedagem\obj\Debug\net5.0\CadastroHospedagem.AssemblyInfoInputs.cache
+C:\Users\soliveira\source\repos\CadastroHospedagem\CadastroHospedagem\obj\Debug\net5.0\CadastroHospedagem.AssemblyInfo.cs
+C:\Users\soliveira\source\repos\CadastroHospedagem\CadastroHospedagem\obj\Debug\net5.0\CadastroHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\soliveira\source\repos\CadastroHospedagem\CadastroHospedagem\obj\Debug\net5.0\CadastroHospedagem.dll
+C:\Users\soliveira\source\repos\CadastroHospedagem\CadastroHospedagem\obj\Debug\net5.0\ref\CadastroHospedagem.dll
+C:\Users\soliveira\source\repos\CadastroHospedagem\CadastroHospedagem\obj\Debug\net5.0\CadastroHospedagem.pdb
+C:\Users\soliveira\source\repos\CadastroHospedagem\CadastroHospedagem\obj\Debug\net5.0\CadastroHospedagem.genruntimeconfig.cache
